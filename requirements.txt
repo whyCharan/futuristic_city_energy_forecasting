@@ -1,11 +1,11 @@
-pandas==2.2.3
-numpy==1.26.4
-scikit-learn==1.3.2
-xgboost==1.7.5
-joblib==1.3.2
-matplotlib==3.8.2
-seaborn==0.12.2
-streamlit==1.28.0
-shap==0.42.1
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
+streamlit
+shap
 
-tqdm==4.66.1
+tqdm
