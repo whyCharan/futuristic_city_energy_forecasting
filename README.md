@@ -1,4 +1,6 @@
-Project based on Energy Consumption of Vehicles in Different types of Cities based on different categories.
+Problem Statement: To develop a supervised machine learning model that predicts the Energy Consumption based on real-world factors such as traffic density, vehicle type distribution, weather, economic status, time, and random external events. The model will learn patterns from historical city-level data and produce reliable future energy load predictions.
+
+Dataset : https://www.kaggle.com/datasets/tanishqdublish/urban-traffic-density-in-cities
 
 City – The location of the observation. Useful for comparing patterns across different cities. Could be categorical.
 
